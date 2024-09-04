@@ -11,7 +11,7 @@ console.log(variable);
 let numeroEdad = 25;
 console.log(numeroEdad);
 let variableNula = null;
-let variableNoDefinida = undefined;
+let variableNoDefinida = undefined; 
 let variableSimbolo = Symbol('unico');
 
 //Estructuras de datos
